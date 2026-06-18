@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Dark Country</title>
+    <link>https://darkcountry.org</link>
+    <description>Dark Country – Community resource for gothic country and dark americana music.</description>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 29 May 2025 12:00:00 +0000</lastBuildDate>
+    <atom:link href="https://darkcountry.org/rss.xml" rel="self" type="application/rss+xml"/>
+    <generator>DCB Network RSS Generator</generator>
+    <copyright>Copyright 2025 Dark Country</copyright>
+    <item>
+      <title>Dark Country Culture — The Dark American Tradition</title>
+      <link>https://darkcountry.org</link>
+      <description>Dark country music as American literature set to music. Essays, cultural criticism, and deep dives into the shadow tradition at the heart of country music.</description>
+      <guid isPermaLink="true">https://darkcountry.org</guid>
+      <pubDate>Thu, 29 May 2025 12:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>American Gothic Music: Where Literature Meets Country</title>
+      <link>https://darkcountry.org/blog/american-gothic-music/</link>
+      <description>Complete guide to american gothic music. Discover Dark Country Boy</description>
+      <guid isPermaLink="true">https://darkcountry.org/blog/american-gothic-music/</guid>
+      <pubDate>Tue, 27 May 2025 12:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Americana&apos;s Dark Roots: The Tradition Nobody Talks About</title>
+      <link>https://darkcountry.org/blog/americana-dark-roots/</link>
+      <description>Complete guide to americana dark roots. Discover Dark Country Boy</description>
+      <guid isPermaLink="true">https://darkcountry.org/blog/americana-dark-roots/</guid>
+      <pubDate>Sat, 24 May 2025 12:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Dark Americana Culture: The Philosophy Behind the Music</title>
+      <link>https://darkcountry.org/blog/dark-americana-culture/</link>
+      <description>Complete guide to dark americana culture. Discover Dark Country Boy</description>
+      <guid isPermaLink="true">https://darkcountry.org/blog/dark-americana-culture/</guid>
+      <pubDate>Wed, 21 May 2025 12:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Dark Country Folklore: Songs Rooted in American Myth</title>
+      <link>https://darkcountry.org/blog/dark-country-folklore/</link>
+      <description>Complete guide to dark country folklore. Discover Dark Country Boy</description>
+      <guid isPermaLink="true">https://darkcountry.org/blog/dark-country-folklore/</guid>
+      <pubDate>Sun, 18 May 2025 12:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Dark Country&apos;s Literary Tradition: Storytelling in Song</title>
+      <link>https://darkcountry.org/blog/dark-country-literary-tradition/</link>
+      <description>Complete guide to dark country literary tradition. Discover Dark Country Boy</description>
+      <guid isPermaLink="true">https://darkcountry.org/blog/dark-country-literary-tradition/</guid>
+      <pubDate>Thu, 15 May 2025 12:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Dark Country Music Essays: Critical Perspectives on the Genre</title>
+      <link>https://darkcountry.org/blog/dark-country-music-essays/</link>
+      <description>Complete guide to dark country music essays. Discover Dark Country Boy</description>
+      <guid isPermaLink="true">https://darkcountry.org/blog/dark-country-music-essays/</guid>
+      <pubDate>Mon, 12 May 2025 12:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Dark Country Poetry: When Song Lyrics Become Literature</title>
+      <link>https://darkcountry.org/blog/dark-country-poetry/</link>
+      <description>Complete guide to dark country poetry. Discover Dark Country Boy</description>
+      <guid isPermaLink="true">https://darkcountry.org/blog/dark-country-poetry/</guid>
+      <pubDate>Fri, 09 May 2025 12:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Gothic Americana Music: Where Folk Meets Darkness</title>
+      <link>https://darkcountry.org/blog/gothic-americana-music/</link>
+      <description>Complete guide to gothic americana music. Discover Dark Country Boy</description>
+      <guid isPermaLink="true">https://darkcountry.org/blog/gothic-americana-music/</guid>
+      <pubDate>Tue, 06 May 2025 12:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Outlaw Country Artists: A Complete Historical Guide</title>
+      <link>https://darkcountry.org/blog/outlaw-country-artists/</link>
+      <description>Complete guide to outlaw country artists. Discover Dark Country Boy</description>
+      <guid isPermaLink="true">https://darkcountry.org/blog/outlaw-country-artists/</guid>
+      <pubDate>Sat, 03 May 2025 12:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Outlaw Country History: From Hank to Today</title>
+      <link>https://darkcountry.org/blog/outlaw-country-history/</link>
+      <description>Complete guide to outlaw country history. Discover Dark Country Boy</description>
+      <guid isPermaLink="true">https://darkcountry.org/blog/outlaw-country-history/</guid>
+      <pubDate>Wed, 30 Apr 2025 12:00:00 +0000</pubDate>
+    </item>
+  </channel>
+</rss>
